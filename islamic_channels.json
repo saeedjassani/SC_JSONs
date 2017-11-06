@@ -1,0 +1,49 @@
+[{
+	"title": "Channel Win",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ZmM0ZzJReHpKZEU",
+	"link": "rtsp://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac"
+}, {
+	"title": "Zainabia Channel",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0NzRWTkE2TjAyNEk",
+	"link": "http://live.wmncdn.net/zainabiachannel/live1/index.m3u8"
+}, {
+	"title": "Karbala TV",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0Q0lFVjJqN0NmYUE",
+	"link": "https://api.new.livestream.com/accounts/11436227/events/3998452/live.m3u8"
+}, {
+	"title": "Ahlulbayt TV",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0U1UzcW83YTJSNzg",
+	"link": "rtsp://109.123.126.10:1935/live/livestream1.sdp"
+}, {
+	"title": "Fadak TV",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0SDV3YnVJVlpmLXM",
+	"link": "http://cdn02.iqbroadcast.tv/abr/380ae04c68aec1a22befef25306ce4be.m3u8"
+}, {
+	"title": "Imam Hussain TV 1",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0LUI3WG5EMFN6bW8",
+	"link": "http://live.imamhossaintv.com/live/ih1.m3u8"
+}, {
+	"title": "Imam Hussain TV 2",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0LUI3WG5EMFN6bW8",
+	"link": "http://live.imamhossaintv.com/live/ih2.m3u8"
+}, {
+	"title": "Imam Hussain TV 3",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0LUI3WG5EMFN6bW8",
+	"link": "http://live.imamhossaintv.com/live/ih3.m3u8"
+}, {
+	"title": "Hadi TV 1",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ZTJqZ3VDSDRzczQ",
+	"link": "rtsp://38.96.175.40/liveTrans/mp4:channel1_190k"
+}, {
+	"title": "Hadi TV 2",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ZTJqZ3VDSDRzczQ",
+	"link": "rtsp://38.96.175.40/liveTrans/mp4:channel2_190k"
+}, {
+	"title": "Hadi TV 3",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ZTJqZ3VDSDRzczQ",
+	"link": "rtsp://38.96.175.40/liveTrans/mp4:channel3_190k"
+}, {
+	"title": "Hadi TV 4",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ZTJqZ3VDSDRzczQ",
+	"link": "rtsp://38.96.175.40/liveTrans/mp4:channel4_190k"
+}]

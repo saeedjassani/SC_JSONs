@@ -1,0 +1,69 @@
+[{
+	"title": "Mecca",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0UTRybXVORkVCR28",
+	"link": "https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/expire/1507363342/source/yt_live_broadcast/key/yt6/go/1/maudio/1/gcr/in/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Cexpire/signature/108F3716268F4916899718509C81806504966A04.940D90D21C4C0A5C52DD36B4011CABA778E453B1/ip/2405%3A204%3A2012%3Aad41%3Ab1a6%3Ae373%3A75a3%3Ac046/requiressl/yes/playlist_type/DVR/itag/0/id/Bt_BWWJPMak.0/file/index.m3u8"
+}, {
+	"title": "Madina",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0aXFQWEhBRXFJemc",
+	"link": "https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/playlist_type/DVR/id/IOE6BLPjQGc.0/ip/103.67.178.117/requiressl/yes/beids/%5B9452306%5D/maudio/1/source/yt_live_broadcast/key/yt6/itag/0/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Cexpire/signature/9E0021155C1DF811151A4BD4264F9BC8692CC2FC.14EDCA1FA6ADE20AB614AAC16EE3DFA171A61FAE/upn/3Z_zlQ3PAqQ/ipbits/0/expire/1485435744/gcr/in/file/index.m3u8"
+}, {
+	"title": "Najaf",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0UEJGRk9IUDRfaFE",
+	"link": "rtmp://92.222.213.212/live/imam-ali/live"
+}, {
+	"title": "Holy Shrine of Imam Husain (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ckQ5Yk55YnJEQms",
+	"link": "https://live.imamhussain.org/hls/test.m3u8"
+}, {
+	"title": "Karbala - Hazrat Abbas (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0OTJ0WWZKOExKZDA",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8"
+}, {
+	"title": "Karbala - Audio broadcast from al-Kafeel",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0OTJ0WWZKOExKZDA",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot10/manifest.m3u8"
+}, {
+	"title": "Karbala - Baynul Haramain",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ckQ5Yk55YnJEQms",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8"
+}, {
+	"title": "Karbala - Entrance of Hazrat Abbas (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0OTJ0WWZKOExKZDA",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8"
+}, {
+	"title": "Karbala - Window of Al-Kafeel",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0OTJ0WWZKOExKZDA",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8"
+}, {
+	"title": "Karbala - view of Sahn",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0OTJ0WWZKOExKZDA",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8"
+}, {
+	"title": "Karbala - The gate of Qiblah from outside",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0OTJ0WWZKOExKZDA",
+	"link": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot6/manifest.m3u8"
+}, {
+	"title": "Kaazmain - Imam Kazim (a.s.) & Imam Jawad (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0UlotZVFNeWoxbjA",
+	"link": "rtmp://92.222.213.211:1935/live/broadcast"
+}, {
+	"title": "Mashhad - Imam Raza (a.s.) ",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0cVhCd3plV01aa1k",
+	"link": "http:\/\/185.23.131.61\/hls\/rozeh_2.m3u8"
+}, {
+	"title": "Inqilab Courtyard - Imam Raza (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0cVhCd3plV01aa1k",
+	"link": "http:\/\/185.23.131.61\/hls\/enghelab_2.m3u8"
+}, {
+	"title": "Jaame Razavi Courtyard - Imam Raza (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0cVhCd3plV01aa1k",
+	"link": "http:\/\/185.23.131.61\/hls\/jame_2.m3u8"
+}, {
+	"title": "Azadi Courtyard - Imam Raza (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0cVhCd3plV01aa1k",
+	"link": "http:\/\/185.23.131.61\/hls\/azadi_2.m3u8"
+}, {
+	"title": "Jomhori Courtyard - Imam Raza (a.s.)",
+	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0cVhCd3plV01aa1k",
+	"link": "http:\/\/185.23.131.61\/hls\/jomhori_2.m3u8"
+}]

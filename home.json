@@ -1,0 +1,24 @@
+[
+	{
+		"linkMedia": "",
+		"media": 0,
+		"header": "Month of Safar",
+		"share": 1,
+		"color" : "#271405",
+		"linkType": 2,
+		"link": "S1",
+		"linkText": "Daily supplication for the Month of Safar",
+		"content": "Al-Muhaddith al-Fayd and other scholars have mentioned that if you desire to be saved from the misfortunes and bad luck of the month of Safar, you may repeat the following supplication ten times :"
+	},
+	{
+		"linkMedia": "",
+		"media": 0,
+		"header": "Nauhas",
+		"share": 1,
+		"color" : "#271405",
+		"linkType": 3,
+		"link": "http://www.azadari.com/",
+		"linkText": "Azadari.com",
+		"content": "Access to all nauhas, majalis around the world."
+	}
+]
