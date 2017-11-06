@@ -1,7 +1,7 @@
 [{
 	"type": 0,
-	"title": "Dua e Ahad",
-	"uid": "E18"
+	"title": "Ziyarate Aale Yaseen",
+	"uid": "G1"
 },{
 	"type": 2,
 	"title": "Karbala - Window of Al-Kafeel",
@@ -24,7 +24,7 @@
 	"uid": "rtsp://109.123.126.10:1935/live/livestream1.sdp"
 },{
 	"type": 2,
-	"title": "Imam Hussain TV 3",
+	"title": "Imam Hussain TV 3 - Live walk",
 	"uid": "http://live.imamhossaintv.com/live/ih3.m3u8"
 },{
 	"type": 2,
