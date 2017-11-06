@@ -1,0 +1,37 @@
+[{
+	"type": 0,
+	"title": "Dua e Ahad",
+	"uid": "E18"
+},{
+	"type": 2,
+	"title": "Karbala - Window of Al-Kafeel",
+	"uid": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8"
+},{
+	"type": 2,
+	"title": "Mashhad - Imam Raza (a.s.)",
+	"uid": "http:\/\/185.23.131.61\/hls\/rozeh_2.m3u8"
+},{
+	"type": 2,
+	"title": "Holy Shrine of Imam Husain (a.s.)",
+	"uid": "https://live.imamhussain.org/hls/test.m3u8"
+},{
+	"type": 2,
+	"title": "Holy Shrine of Imam Husain (a.s.)",
+	"uid": "https://live.imamhussain.org/hls/test.m3u8"
+},{
+	"type": 2,
+	"title": "Ahlulbayt TV",
+	"uid": "rtsp://109.123.126.10:1935/live/livestream1.sdp"
+},{
+	"type": 2,
+	"title": "Imam Hussain TV 3",
+	"uid": "http://live.imamhossaintv.com/live/ih3.m3u8"
+},{
+	"type": 2,
+	"title": "Hadi TV 1",
+	"uid": "rtsp://38.96.175.40/liveTrans/mp4:channel1_190k"
+},{
+	"type": 1,
+	"title": "Lohoof (Sighs of sorrow)",
+	"uid": "lohoof-sighs-of-sorrow"
+}]
