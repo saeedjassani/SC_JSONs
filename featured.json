@@ -3,6 +3,10 @@
 	"title": "Imam Hussain TV 3",
 	"uid": "http://live.imamhossaintv.com/live/ih3.m3u8"
 },{
+	"type": 1,
+	"title": "Lohoof (Sighs of sorrow)",
+	"uid": "lohoof-sighs-of-sorrow"
+},{
 	"type": 0,
 	"title": "Ziyarate Aale Yaseen",
 	"uid": "G1"
@@ -23,11 +27,11 @@
 	"title": "Ahlulbayt TV",
 	"uid": "rtsp://109.123.126.10:1935/live/livestream1.sdp"
 },{
-	"type": 2,
-	"title": "Hadi TV 1",
-	"uid": "rtsp://38.96.175.40/liveTrans/mp4:channel1_190k"
+	"type": 0,
+	"title": "Ziyarat e Nahiya",
+	"uid": "G11"
 },{
 	"type": 1,
-	"title": "Lohoof (Sighs of sorrow)",
-	"uid": "lohoof-sighs-of-sorrow"
+	"title": "The Book of Occultation",
+	"uid": "the-book-of-occultation"
 }]
