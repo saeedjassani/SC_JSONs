@@ -20,10 +20,6 @@
 	"uid": "http:\/\/185.23.131.61\/hls\/rozeh_2.m3u8"
 },{
 	"type": 2,
-	"title": "Holy Shrine of Imam Husain (a.s.)",
-	"uid": "https://live.imamhussain.org/hls/test.m3u8"
-},{
-	"type": 2,
 	"title": "Ahlulbayt TV",
 	"uid": "rtsp://109.123.126.10:1935/live/livestream1.sdp"
 },{
