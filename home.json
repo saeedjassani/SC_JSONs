@@ -2,17 +2,6 @@
 	{
 		"linkMedia": "",
 		"media": 0,
-		"header": "Month of Safar",
-		"share": 1,
-		"color" : "#271405",
-		"linkType": 2,
-		"link": "S1",
-		"linkText": "Daily supplication for the Month of Safar",
-		"content": "Al-Muhaddith al-Fayd and other scholars have mentioned that if you desire to be saved from the misfortunes and bad luck of the month of Safar, you may repeat the following supplication ten times :"
-	},
-	{
-		"linkMedia": "",
-		"media": 0,
 		"header": "Nauhas",
 		"share": 1,
 		"color" : "#271405",
@@ -20,5 +9,16 @@
 		"link": "http://www.azadari.com/",
 		"linkText": "Azadari.com",
 		"content": "Access to all nauhas, majalis around the world."
+	},
+	{
+		"linkMedia": "",
+		"media": 0,
+		"header": "KARBALA TOURS",
+		"share": 1,
+		"color" : "#271405",
+		"linkType": 2,
+		"link": "",
+		"linkText": "",
+		"content": "KARBALA TOURS \u00AE ANNOUNCES \r\n\r\nAYYAME FATEMIYYA IN SYRIA\uD83C\uDFF4\r\n\r\n1 Day in Qom\r\n6 Days in Damascus\r\n\r\nDep : February  2018\r\n\r\nHadiya : 58110/-\r\n\r\nFor details contact :\r\nSyed Razi Rizvi \r\n\uD83D\uDCF209867033361\r\n\uD83D\uDCF207506127449\r\n\uD83D\uDCF209987191105\r\n\r\nEmail : raziqum@gmail.com \r\nKarbalaatours@gmail.com \r\n\r\nOffice: Shop no. 2, Habib building, Below Mehfile Shahe Khorasan, Hazrat Abbas a.s Street, Dongri Mumbai."
 	}
 ]
