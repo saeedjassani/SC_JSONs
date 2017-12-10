@@ -1,15 +1,15 @@
 [{
 	"title": "Mecca",
 	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0UTRybXVORkVCR28",
-	"link": "https://manifest.googlevideo.com/api/manifest/hls_variant/ipbits/0/expire/1507363342/source/yt_live_broadcast/key/yt6/go/1/maudio/1/gcr/in/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Cexpire/signature/108F3716268F4916899718509C81806504966A04.940D90D21C4C0A5C52DD36B4011CABA778E453B1/ip/2405%3A204%3A2012%3Aad41%3Ab1a6%3Ae373%3A75a3%3Ac046/requiressl/yes/playlist_type/DVR/itag/0/id/Bt_BWWJPMak.0/file/index.m3u8"
+	"link": "https://www.youtube.com/embed/R6A2NwsGfow"
 }, {
 	"title": "Madina",
 	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0aXFQWEhBRXFJemc",
-	"link": "https://manifest.googlevideo.com/api/manifest/hls_variant/go/1/playlist_type/DVR/id/IOE6BLPjQGc.0/ip/103.67.178.117/requiressl/yes/beids/%5B9452306%5D/maudio/1/source/yt_live_broadcast/key/yt6/itag/0/sparams/gcr%2Cgo%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Crequiressl%2Csource%2Cexpire/signature/9E0021155C1DF811151A4BD4264F9BC8692CC2FC.14EDCA1FA6ADE20AB614AAC16EE3DFA171A61FAE/upn/3Z_zlQ3PAqQ/ipbits/0/expire/1485435744/gcr/in/file/index.m3u8"
+	"link": "https://www.youtube.com/embed/7qLBABTPBAs"
 }, {
 	"title": "Najaf",
 	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0UEJGRk9IUDRfaFE",
-	"link": "rtmp://92.222.213.212/live/imam-ali/live"
+	"link": "https://www.youtube.com/embed/YhtU_SDqKcQ"
 }, {
 	"title": "Holy Shrine of Imam Husain (a.s.)",
 	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0ckQ5Yk55YnJEQms",
@@ -45,7 +45,7 @@
 }, {
 	"title": "Kaazmain - Imam Kazim (a.s.) & Imam Jawad (a.s.)",
 	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0UlotZVFNeWoxbjA",
-	"link": "rtmp://92.222.213.211:1935/live/broadcast"
+	"link": "https://www.youtube.com/embed/"
 }, {
 	"title": "Mashhad - Imam Raza (a.s.) ",
 	"img": "https://docs.google.com/uc?id=0BzNyF6DvmX-0cVhCd3plV01aa1k",
